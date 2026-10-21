@@ -1,0 +1,338 @@
+[
+  {
+    "group": "G01",
+    "version": "Source",
+    "file": "audio/G01/source.wav",
+    "sha256": "4dc859ee4b3c572d27661d8af6bca77ab90bf255c88732a281f1ec52eb6347cc"
+  },
+  {
+    "group": "G01",
+    "version": "Reference",
+    "file": "audio/G01/reference.wav",
+    "sha256": "20c0317981f2a0c091f3f56465eaa7073dbd5e3605881c3c2420ad4d7f916f7e"
+  },
+  {
+    "group": "G01",
+    "version": "完整stylesinger",
+    "file": "audio/G01/stylesinger.wav",
+    "sha256": "e377e5ee72bbf4dcb69c08ace76d46a8af8798333f66885c12198aa829d47121"
+  },
+  {
+    "group": "G01",
+    "version": "流式版",
+    "file": "audio/G01/streaming.wav",
+    "sha256": "75bbb22dccd3687ee0fe97b894ed4feb6d3dd3af28c7abb8b7daff5cc502bfdb"
+  },
+  {
+    "group": "G02",
+    "version": "Source",
+    "file": "audio/G02/source.wav",
+    "sha256": "769fd3d2fb051649eb8b320b14057e49cf6ba2a823932a40eb016cdc28732939"
+  },
+  {
+    "group": "G02",
+    "version": "Reference",
+    "file": "audio/G02/reference.wav",
+    "sha256": "f5105a27d0837271d437e2201cb20b9ff66e79e3d545ba33a92fb6f71f5d5423"
+  },
+  {
+    "group": "G02",
+    "version": "完整stylesinger",
+    "file": "audio/G02/stylesinger.wav",
+    "sha256": "d3bf08fbe9bc6f3761f6b172a745b3380f214be1d022c87221902c2b2717d747"
+  },
+  {
+    "group": "G02",
+    "version": "流式版",
+    "file": "audio/G02/streaming.wav",
+    "sha256": "1f3e725269d99eb64b1f4b99db7e78cf1b8fd2e555907d1e224fbc14bb3fdbd5"
+  },
+  {
+    "group": "G03",
+    "version": "Source",
+    "file": "audio/G03/source.wav",
+    "sha256": "bfac542c5085f0b0700282bc095af601c86193b3645ad2d1413ac989eb3a03f9"
+  },
+  {
+    "group": "G03",
+    "version": "Reference",
+    "file": "audio/G03/reference.wav",
+    "sha256": "c513f681311f80ff97daba53d5c14bea01519469b7433779d071786b0b893b22"
+  },
+  {
+    "group": "G03",
+    "version": "完整stylesinger",
+    "file": "audio/G03/stylesinger.wav",
+    "sha256": "c939ee34dfd8460897876d49e765851c02eb9d27e86cb71302a1387a0c544787"
+  },
+  {
+    "group": "G03",
+    "version": "流式版",
+    "file": "audio/G03/streaming.wav",
+    "sha256": "0d7624c325571c953bc27bbc5c16d3b9f99d375703147b3cde2926c20252b1de"
+  },
+  {
+    "group": "G04",
+    "version": "Source",
+    "file": "audio/G04/source.wav",
+    "sha256": "41e9ecadb075fa0234c3bbcf91d150d8261f2a9cd1716209868624c9eb933c85"
+  },
+  {
+    "group": "G04",
+    "version": "Reference",
+    "file": "audio/G04/reference.wav",
+    "sha256": "6b140589aeaa006d58890338826e36211acee80b740d1e01b0b8cca8adc8dee5"
+  },
+  {
+    "group": "G04",
+    "version": "完整stylesinger",
+    "file": "audio/G04/stylesinger.wav",
+    "sha256": "fbbafb83a33db08cd9c912e5903c8ab8001bc44e5c5b178be2fb9c89fe951bd8"
+  },
+  {
+    "group": "G04",
+    "version": "流式版",
+    "file": "audio/G04/streaming.wav",
+    "sha256": "eac835f32a410ef2d38a06f23955013cd96868e49e784ef84fce6621614b9bb4"
+  },
+  {
+    "group": "G05",
+    "version": "Source",
+    "file": "audio/G05/source.wav",
+    "sha256": "c1bc96e970486a20d9a8e280a166600ea636fc707870983819b346f9af59bd59"
+  },
+  {
+    "group": "G05",
+    "version": "Reference",
+    "file": "audio/G05/reference.wav",
+    "sha256": "6b140589aeaa006d58890338826e36211acee80b740d1e01b0b8cca8adc8dee5"
+  },
+  {
+    "group": "G05",
+    "version": "完整stylesinger",
+    "file": "audio/G05/stylesinger.wav",
+    "sha256": "b68c0fbb08dd30b0a8510aba7cccd0509eb6dce0c55ac037738e80d950be8fd2"
+  },
+  {
+    "group": "G05",
+    "version": "流式版",
+    "file": "audio/G05/streaming.wav",
+    "sha256": "9191e4efd4901342f331de37f95a78d62cf798a433736d041f6a094538037cdc"
+  },
+  {
+    "group": "G06",
+    "version": "Source",
+    "file": "audio/G06/source.wav",
+    "sha256": "56da775f7e0a638d7c4fba75521f595e7f9e68700c99d9f019f3fadf8e6324ec"
+  },
+  {
+    "group": "G06",
+    "version": "Reference",
+    "file": "audio/G06/reference.wav",
+    "sha256": "bfbc5b49fb6fccd0ee82fc828419e93d609a022920733243ca3138c279bb7cfd"
+  },
+  {
+    "group": "G06",
+    "version": "完整stylesinger",
+    "file": "audio/G06/stylesinger.wav",
+    "sha256": "f406a79ed77f15505986e1bae57a1904b4954932c29bba01a99b75e5ca6b8767"
+  },
+  {
+    "group": "G06",
+    "version": "流式版",
+    "file": "audio/G06/streaming.wav",
+    "sha256": "210ae208831a41f2f61e990b33b7fc0f9c3534d013d61d3ff57f68c7c4513310"
+  },
+  {
+    "group": "G07",
+    "version": "Source",
+    "file": "audio/G07/source.wav",
+    "sha256": "af1f4b9fc6c5a77fb471260a743d473ca414da9f80a2ceb3dc5a18a3da4f7b0f"
+  },
+  {
+    "group": "G07",
+    "version": "Reference",
+    "file": "audio/G07/reference.wav",
+    "sha256": "bfbc5b49fb6fccd0ee82fc828419e93d609a022920733243ca3138c279bb7cfd"
+  },
+  {
+    "group": "G07",
+    "version": "完整stylesinger",
+    "file": "audio/G07/stylesinger.wav",
+    "sha256": "a39c914bc35a28112b15e242a2114a75ab7e2584781a336b4844e220908ac547"
+  },
+  {
+    "group": "G07",
+    "version": "流式版",
+    "file": "audio/G07/streaming.wav",
+    "sha256": "b107d608a7563a73248614b205206cef73dc22728899ebe85ac2d04b3bb8254c"
+  },
+  {
+    "group": "G08",
+    "version": "Source",
+    "file": "audio/G08/source.wav",
+    "sha256": "bc4a023a298cf62ce1cf8e3b23e7bd6a4b0413b80b16786e96eb45115ae41927"
+  },
+  {
+    "group": "G08",
+    "version": "Reference",
+    "file": "audio/G08/reference.wav",
+    "sha256": "eb28c689afedef4f13e385b28e38d4d1b8dee2410f9adbe8b2680f8a0bd2ad8b"
+  },
+  {
+    "group": "G08",
+    "version": "完整stylesinger",
+    "file": "audio/G08/stylesinger.wav",
+    "sha256": "29c1ff7d71a8a2e05c7fd4a35052cee4d6bef7463f182623d8e7e47e497218a5"
+  },
+  {
+    "group": "G08",
+    "version": "流式版",
+    "file": "audio/G08/streaming.wav",
+    "sha256": "1ba87bc8008b3c1ec4b05bc9a343f5df21c54c1ad5fd4b8533675667ea209d05"
+  },
+  {
+    "group": "G09",
+    "version": "Source",
+    "file": "audio/G09/source.wav",
+    "sha256": "bcf1ae264d3c557521f643b35c3a2dcc97b965eecbc5deff01d8e660877f10de"
+  },
+  {
+    "group": "G09",
+    "version": "Reference",
+    "file": "audio/G09/reference.wav",
+    "sha256": "81a93d8bbe1dac3155c08f351c252049620315510394833a5a069cc104a0e712"
+  },
+  {
+    "group": "G09",
+    "version": "完整stylesinger",
+    "file": "audio/G09/stylesinger.wav",
+    "sha256": "634253cf027c0ef1c0ef29147cad46b0b462236ef239c251bcdbefc0a7cab5de"
+  },
+  {
+    "group": "G09",
+    "version": "流式版",
+    "file": "audio/G09/streaming.wav",
+    "sha256": "c7c7491931f20370770f476a99cad3bf5a921bfb3de31a76fb15b81c7cdce275"
+  },
+  {
+    "group": "G10",
+    "version": "Source",
+    "file": "audio/G10/source.wav",
+    "sha256": "b1a11840556788940ed2335bc46afde6c431340d53b3ad7b3a3952ea349afcd6"
+  },
+  {
+    "group": "G10",
+    "version": "Reference",
+    "file": "audio/G10/reference.wav",
+    "sha256": "be304f143196c602be3a3da7d1061e3a582be94aefe81281c818aa8234a7ccf2"
+  },
+  {
+    "group": "G10",
+    "version": "完整stylesinger",
+    "file": "audio/G10/stylesinger.wav",
+    "sha256": "1799cb23832e7f3dba2bf046b669a4dbe4442730ec1b1ea62b81524bdd5aa30e"
+  },
+  {
+    "group": "G10",
+    "version": "流式版",
+    "file": "audio/G10/streaming.wav",
+    "sha256": "ac30e294882a2e1618bf7bace028128183c50b0203d598046362f2b969d77c40"
+  },
+  {
+    "group": "G11",
+    "version": "Source",
+    "file": "audio/G11/source.wav",
+    "sha256": "eb9eb1ec871ba90c4f744979594b6840af280af35530dbb88201ae2c94312e45"
+  },
+  {
+    "group": "G11",
+    "version": "Reference",
+    "file": "audio/G11/reference.wav",
+    "sha256": "ba5cbbabbbd0315832bb4abf868af2483c8436d89afb521db94fc6d095e10d21"
+  },
+  {
+    "group": "G11",
+    "version": "完整stylesinger",
+    "file": "audio/G11/stylesinger.wav",
+    "sha256": "092d92f713005ac1ffd6e3a58b6954360821ffe3893ecce02c42d459018a38df"
+  },
+  {
+    "group": "G11",
+    "version": "流式版",
+    "file": "audio/G11/streaming.wav",
+    "sha256": "a1207116dbe3d56c28fc88798177fb8fd59ebd43b0d1263154944881e7e88945"
+  },
+  {
+    "group": "G12",
+    "version": "Source",
+    "file": "audio/G12/source.wav",
+    "sha256": "1fc18b85c29112b7cbc78daff276cfaa3755ef7e28249f36d825df5bad000874"
+  },
+  {
+    "group": "G12",
+    "version": "Reference",
+    "file": "audio/G12/reference.wav",
+    "sha256": "c513f681311f80ff97daba53d5c14bea01519469b7433779d071786b0b893b22"
+  },
+  {
+    "group": "G12",
+    "version": "完整stylesinger",
+    "file": "audio/G12/stylesinger.wav",
+    "sha256": "488a166d6c7fdef6afdb3c7a9049a4fced3de0f82f43ef1622666aec75bc378b"
+  },
+  {
+    "group": "G12",
+    "version": "流式版",
+    "file": "audio/G12/streaming.wav",
+    "sha256": "7365e4c6a54a456cb0ec97ec9140611a2496063171861c94d6668afcd0b4b24b"
+  },
+  {
+    "group": "G13",
+    "version": "Source",
+    "file": "audio/G13/source.wav",
+    "sha256": "eb28c689afedef4f13e385b28e38d4d1b8dee2410f9adbe8b2680f8a0bd2ad8b"
+  },
+  {
+    "group": "G13",
+    "version": "Reference",
+    "file": "audio/G13/reference.wav",
+    "sha256": "bc4a023a298cf62ce1cf8e3b23e7bd6a4b0413b80b16786e96eb45115ae41927"
+  },
+  {
+    "group": "G13",
+    "version": "完整stylesinger",
+    "file": "audio/G13/stylesinger.wav",
+    "sha256": "46bf35f0d4661c1b5244e97d6d9548d03f18cfd589accdd361400d89b81ee264"
+  },
+  {
+    "group": "G13",
+    "version": "流式版",
+    "file": "audio/G13/streaming.wav",
+    "sha256": "8bd7ef963aa65d91d4c379271b09f49f0d0a86ece4cc98dba79f5b2cda9fc117"
+  },
+  {
+    "group": "G14",
+    "version": "Source",
+    "file": "audio/G14/source.wav",
+    "sha256": "2b3c140e05d567d0305373b41e078cdd9226d4b4105858deef94b5745816c385"
+  },
+  {
+    "group": "G14",
+    "version": "Reference",
+    "file": "audio/G14/reference.wav",
+    "sha256": "c69ee42429c504035a887f1e59040568a334f0ed9b6c9779831ce826d2c6a08d"
+  },
+  {
+    "group": "G14",
+    "version": "完整stylesinger",
+    "file": "audio/G14/stylesinger.wav",
+    "sha256": "79c6b927b7bd6f15fac45a7e290f52061013e6117fc0b4501aed75a997e4f26e"
+  },
+  {
+    "group": "G14",
+    "version": "流式版",
+    "file": "audio/G14/streaming.wav",
+    "sha256": "b77fafd02565f65b3372b4287d8b510cb08dbe133c167afc502592ed8f5dc0ce"
+  }
+]
