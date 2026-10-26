@@ -1,0 +1,290 @@
+[
+  {
+    "group": "G01",
+    "role": "source",
+    "file": "audio/G01/source.wav",
+    "sha256": "96db4d42b307e3722f688e2831578e94a5864e7a9db890eeb48b75e05f9f5148",
+    "seconds": 6.5,
+    "sample_rate": 48000
+  },
+  {
+    "group": "G01",
+    "role": "reference",
+    "file": "audio/G01/reference.wav",
+    "sha256": "ebc937163d67ab0b9fde1e1b6e0ab8b6e6270ae90d4cb957633ee15188df3b34",
+    "seconds": 6.48,
+    "sample_rate": 48000
+  },
+  {
+    "group": "G01",
+    "role": "decoder",
+    "file": "audio/G01/decoder.wav",
+    "sha256": "f7c79f9b86174935652f3dcfe47188d3d01e87bf60b8317d59363ed4867f90e1",
+    "seconds": 6.501333333333333,
+    "sample_rate": 48000
+  },
+  {
+    "group": "G01",
+    "role": "stylesinger",
+    "file": "audio/G01/stylesinger.wav",
+    "sha256": "01a5729dd080a8f675ead20e46ab8480b4f8a04f113eb39e5b0ef05e888b2e5e",
+    "seconds": 6.501333333333333,
+    "sample_rate": 48000
+  },
+  {
+    "group": "G01",
+    "role": "kd2500",
+    "file": "audio/G01/kd2500.wav",
+    "sha256": "43a791d957629dd608196b80c1d0c8713abbbd7a5c2e2af8ccc17fcd2c2604b4",
+    "seconds": 6.501333333333333,
+    "sample_rate": 48000
+  },
+  {
+    "group": "G01",
+    "role": "s1t9",
+    "file": "audio/G01/s1t9.wav",
+    "sha256": "b0feafd29d1be2d7f0be6377ad4b2d62298f674b6e7701aa65fd674118b53524",
+    "seconds": 6.501333333333333,
+    "sample_rate": 48000
+  },
+  {
+    "group": "G02",
+    "role": "source",
+    "file": "audio/G02/source.wav",
+    "sha256": "5ad8dde91b6474612dc7e317f3960de53a5312fcae4fede9e68042b2bb3ad9f2",
+    "seconds": 6.5,
+    "sample_rate": 48000
+  },
+  {
+    "group": "G02",
+    "role": "reference",
+    "file": "audio/G02/reference.wav",
+    "sha256": "e2c7084ff20620af9cd32a011ad6a4c56908258175c52e8ba3ad598bb454f5b7",
+    "seconds": 6.43,
+    "sample_rate": 48000
+  },
+  {
+    "group": "G02",
+    "role": "decoder",
+    "file": "audio/G02/decoder.wav",
+    "sha256": "1924ce75be9afb8f1bb5b2202ac07a687b6fcce3df5383178a43ba8c50d260a7",
+    "seconds": 6.501333333333333,
+    "sample_rate": 48000
+  },
+  {
+    "group": "G02",
+    "role": "stylesinger",
+    "file": "audio/G02/stylesinger.wav",
+    "sha256": "1c1b974bad57277a0ab20361da385817c36739a6b791a16641973a707ac991df",
+    "seconds": 6.501333333333333,
+    "sample_rate": 48000
+  },
+  {
+    "group": "G02",
+    "role": "kd2500",
+    "file": "audio/G02/kd2500.wav",
+    "sha256": "87f09370c82a0d6267f2f098401b3ef5a2dd5a00541c16db8ba4caced14055b1",
+    "seconds": 6.501333333333333,
+    "sample_rate": 48000
+  },
+  {
+    "group": "G02",
+    "role": "s1t9",
+    "file": "audio/G02/s1t9.wav",
+    "sha256": "8e5ab4fbc33f67883bce6f0e33098fed61846d503d4c4352b893bc037fec86f6",
+    "seconds": 6.501333333333333,
+    "sample_rate": 48000
+  },
+  {
+    "group": "G03",
+    "role": "source",
+    "file": "audio/G03/source.wav",
+    "sha256": "ce8801e260539a1f7fd86d8e5d8733067e8891d046378474adb35839e105fa90",
+    "seconds": 6.5,
+    "sample_rate": 48000
+  },
+  {
+    "group": "G03",
+    "role": "reference",
+    "file": "audio/G03/reference.wav",
+    "sha256": "7584b8cd92b96a374f4a4ea44203d168e895a64dd1963fab17e3b3ca0196df91",
+    "seconds": 5.308041666666667,
+    "sample_rate": 48000
+  },
+  {
+    "group": "G03",
+    "role": "decoder",
+    "file": "audio/G03/decoder.wav",
+    "sha256": "b4e4a54acb3bc9aa63a19c35bb416d2885cc2aa66fbfe50a535fe8bb9f28368e",
+    "seconds": 6.501333333333333,
+    "sample_rate": 48000
+  },
+  {
+    "group": "G03",
+    "role": "stylesinger",
+    "file": "audio/G03/stylesinger.wav",
+    "sha256": "066ddf6c13be594197c4ffb84794c22fe270e663efbd44048574ea93e07fe7b7",
+    "seconds": 6.501333333333333,
+    "sample_rate": 48000
+  },
+  {
+    "group": "G03",
+    "role": "kd2500",
+    "file": "audio/G03/kd2500.wav",
+    "sha256": "b67d29b5afef5a06c14b37c72f986ce9419013124f9f8c99dadb66513273aabb",
+    "seconds": 6.501333333333333,
+    "sample_rate": 48000
+  },
+  {
+    "group": "G03",
+    "role": "s1t9",
+    "file": "audio/G03/s1t9.wav",
+    "sha256": "a78c319f8f8ceff64906121b575bbe80bd239abf353fcc2eb7686ec9e810771a",
+    "seconds": 6.501333333333333,
+    "sample_rate": 48000
+  },
+  {
+    "group": "G04",
+    "role": "source",
+    "file": "audio/G04/source.wav",
+    "sha256": "f6f5ceab5799e93e46d250dc51ed7acdc72416360d9c15088f03aed364615c56",
+    "seconds": 6.505,
+    "sample_rate": 48000
+  },
+  {
+    "group": "G04",
+    "role": "reference",
+    "file": "audio/G04/reference.wav",
+    "sha256": "cd463a63a194313221ff103bf294782f2e9ef8563aeb475bae45f18252361af3",
+    "seconds": 7.555,
+    "sample_rate": 48000
+  },
+  {
+    "group": "G04",
+    "role": "decoder",
+    "file": "audio/G04/decoder.wav",
+    "sha256": "8fa8e07f3141987121c3ea703123566f94cbae7f0983eb15668d2e458a3eb338",
+    "seconds": 6.506666666666667,
+    "sample_rate": 48000
+  },
+  {
+    "group": "G04",
+    "role": "stylesinger",
+    "file": "audio/G04/stylesinger.wav",
+    "sha256": "2abbf5803a2469c145831527b84a95a88b00b9297f27b467d112c32852f8223c",
+    "seconds": 6.506666666666667,
+    "sample_rate": 48000
+  },
+  {
+    "group": "G04",
+    "role": "kd2500",
+    "file": "audio/G04/kd2500.wav",
+    "sha256": "c3f099c7784d658a7ee7568317e666a82d9b6bf58f176b06b4c2a952c17d20d8",
+    "seconds": 6.506666666666667,
+    "sample_rate": 48000
+  },
+  {
+    "group": "G04",
+    "role": "s1t9",
+    "file": "audio/G04/s1t9.wav",
+    "sha256": "0a5dbf6d11abf60eeb361bb105a97f8fc86690bd69d604cba7c3195be883752a",
+    "seconds": 6.506666666666667,
+    "sample_rate": 48000
+  },
+  {
+    "group": "G05",
+    "role": "source",
+    "file": "audio/G05/source.wav",
+    "sha256": "170522c67b1d363f772f9b2a78ac5b383598b095a114f370a79a5ca98e14f9d7",
+    "seconds": 6.49,
+    "sample_rate": 48000
+  },
+  {
+    "group": "G05",
+    "role": "reference",
+    "file": "audio/G05/reference.wav",
+    "sha256": "b33495bc7a306338f3b24f543163cd860bb6382b874722b524eaa1f763715030",
+    "seconds": 5.99,
+    "sample_rate": 48000
+  },
+  {
+    "group": "G05",
+    "role": "decoder",
+    "file": "audio/G05/decoder.wav",
+    "sha256": "017bc2644987cf0ea7d864f3e47d3ccc03cdef12b75095534806bfed53c6a62d",
+    "seconds": 6.490666666666667,
+    "sample_rate": 48000
+  },
+  {
+    "group": "G05",
+    "role": "stylesinger",
+    "file": "audio/G05/stylesinger.wav",
+    "sha256": "321a7230a60cd9355f67e1299eb972f5cbe29cb31d6179e154bfd1628a5f0bf9",
+    "seconds": 6.490666666666667,
+    "sample_rate": 48000
+  },
+  {
+    "group": "G05",
+    "role": "kd2500",
+    "file": "audio/G05/kd2500.wav",
+    "sha256": "9b10ded33fb954c441acda56787298ac1d104f9f2713bbe701678fa1c6f90e55",
+    "seconds": 6.490666666666667,
+    "sample_rate": 48000
+  },
+  {
+    "group": "G05",
+    "role": "s1t9",
+    "file": "audio/G05/s1t9.wav",
+    "sha256": "c1abc6bd62faaba05b21cb7b200279ac26fe49d91cff3b9cc63f464ddc76b394",
+    "seconds": 6.490666666666667,
+    "sample_rate": 48000
+  },
+  {
+    "group": "G06",
+    "role": "source",
+    "file": "audio/G06/source.wav",
+    "sha256": "2b6bf5ef9cd069518305546ba2cc9153fe8efea42a6d19ebaa3deb1a8dfaf623",
+    "seconds": 6.51,
+    "sample_rate": 48000
+  },
+  {
+    "group": "G06",
+    "role": "reference",
+    "file": "audio/G06/reference.wav",
+    "sha256": "8b5b6bc9c1d5ad6a21410a9bb6e28b4660c33283e2b3894fa99dd4ab2de62c79",
+    "seconds": 6.72,
+    "sample_rate": 48000
+  },
+  {
+    "group": "G06",
+    "role": "decoder",
+    "file": "audio/G06/decoder.wav",
+    "sha256": "46f29ce17cda30868f8e54e910eccfb9ded3dd281d1d31580f0dee919c4e5b25",
+    "seconds": 6.512,
+    "sample_rate": 48000
+  },
+  {
+    "group": "G06",
+    "role": "stylesinger",
+    "file": "audio/G06/stylesinger.wav",
+    "sha256": "aed4c4bd0afe8cdcf396a6e062bbd34fa9f76c094e097b7a7fac6d0b17d8cc5c",
+    "seconds": 6.512,
+    "sample_rate": 48000
+  },
+  {
+    "group": "G06",
+    "role": "kd2500",
+    "file": "audio/G06/kd2500.wav",
+    "sha256": "f516f311376ff6e985589efb1688f84f0ff67992ab0e641c11352af2b7ecee96",
+    "seconds": 6.512,
+    "sample_rate": 48000
+  },
+  {
+    "group": "G06",
+    "role": "s1t9",
+    "file": "audio/G06/s1t9.wav",
+    "sha256": "1fc5c7ca9f574ab62ad556decff2dc008438cee178ed7a9b3ee30108efe40a8b",
+    "seconds": 6.512,
+    "sample_rate": 48000
+  }
+]
