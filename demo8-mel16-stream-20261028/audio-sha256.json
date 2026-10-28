@@ -1,0 +1,394 @@
+[
+  {
+    "file": "V01/Source.wav",
+    "sha256": "1529021ad7ff82c7d2def3ce65d08cf1ba584ec9dbf5ae6c9b3178019395e0e1",
+    "bytes": 640878,
+    "samples": 320400,
+    "sample_rate": 48000
+  },
+  {
+    "file": "V01/Ref.wav",
+    "sha256": "96825a7baec4cd8795a9796738fbda8003a329cf594807de83e76309e5627d27",
+    "bytes": 607758,
+    "samples": 303840,
+    "sample_rate": 48000
+  },
+  {
+    "file": "V01/A.wav",
+    "sha256": "c4138bb67aebda5a0d47eed1e9bcba91ff8b54e57753842294e590986add6cd2",
+    "bytes": 641068,
+    "samples": 320512,
+    "sample_rate": 48000
+  },
+  {
+    "file": "V01/B.wav",
+    "sha256": "7fc604cbe015102346209567b2349c86d6216058d917b65f2824e1792aa76680",
+    "bytes": 641068,
+    "samples": 320512,
+    "sample_rate": 48000
+  },
+  {
+    "file": "V01/C.wav",
+    "sha256": "f37334eaf186024d39ddb9713ea8940adcc62051b2629a06ddc55ef402723d53",
+    "bytes": 641068,
+    "samples": 320512,
+    "sample_rate": 48000
+  },
+  {
+    "file": "V01/D.wav",
+    "sha256": "19124f15e2e68e7ffe6bbe094d25eba3ba0177c8c9429f7b555c1a425bcfe295",
+    "bytes": 641068,
+    "samples": 320512,
+    "sample_rate": 48000
+  },
+  {
+    "file": "V01/E.wav",
+    "sha256": "bbf1648dcb3336c4d8315ad048d8e7a79296694953b1df82232a9bd7075fb6bc",
+    "bytes": 641068,
+    "samples": 320512,
+    "sample_rate": 48000
+  },
+  {
+    "file": "V02/Source.wav",
+    "sha256": "1eb6dcc5aecdf074b611bd255e41350e4d340fc88d95683b4be9220ea26ff198",
+    "bytes": 636558,
+    "samples": 318240,
+    "sample_rate": 48000
+  },
+  {
+    "file": "V02/Ref.wav",
+    "sha256": "857c1ef2c3dfe4d3508ab148e6b499232b014f77702ed3d2682ba106b6a85512",
+    "bytes": 380718,
+    "samples": 190320,
+    "sample_rate": 48000
+  },
+  {
+    "file": "V02/A.wav",
+    "sha256": "496cd88580d36193f289679affc85d3779f173076208e088c5db784ffcb5f01a",
+    "bytes": 636460,
+    "samples": 318208,
+    "sample_rate": 48000
+  },
+  {
+    "file": "V02/B.wav",
+    "sha256": "48cb0827f20474a263c32d2a5cc78b05ab3799f134ed388f3065f4d417069d34",
+    "bytes": 636460,
+    "samples": 318208,
+    "sample_rate": 48000
+  },
+  {
+    "file": "V02/C.wav",
+    "sha256": "5e669527b73c944a42eed6fa2a64f011c93e5036e7dcbd7c17c6223c85f06510",
+    "bytes": 636460,
+    "samples": 318208,
+    "sample_rate": 48000
+  },
+  {
+    "file": "V02/D.wav",
+    "sha256": "507d614e6fa42685f00f3dd1d9eab4f8023d4195d76e09cdd245c78f76cfd440",
+    "bytes": 636460,
+    "samples": 318208,
+    "sample_rate": 48000
+  },
+  {
+    "file": "V02/E.wav",
+    "sha256": "c449a708e00b61a74e23bb7bb87aa692beaeeefaf30b0af99aad7b8d89ee86bd",
+    "bytes": 636460,
+    "samples": 318208,
+    "sample_rate": 48000
+  },
+  {
+    "file": "V03/Source.wav",
+    "sha256": "3dc3cc7584bc566d96f068fe864ff9498000c0aa241d406842b11f5e3c6a5a35",
+    "bytes": 708558,
+    "samples": 354240,
+    "sample_rate": 48000
+  },
+  {
+    "file": "V03/Ref.wav",
+    "sha256": "db388ca0f291409866da99cf0eae70c849d3dd17fc519d1ad79ea70d3221c119",
+    "bytes": 365842,
+    "samples": 182882,
+    "sample_rate": 48000
+  },
+  {
+    "file": "V03/A.wav",
+    "sha256": "724a3433c2107ebd2312f37445d87df5ff3bce016b835f79e57cf97143bfe145",
+    "bytes": 708652,
+    "samples": 354304,
+    "sample_rate": 48000
+  },
+  {
+    "file": "V03/B.wav",
+    "sha256": "eb7cd73730c6ab073b455c49ea48e0019ca957425d22e962f4b6677be8981772",
+    "bytes": 708652,
+    "samples": 354304,
+    "sample_rate": 48000
+  },
+  {
+    "file": "V03/C.wav",
+    "sha256": "9c1454478a4c10534ba25bc8877be71afae5fc9c9516917dd29ee61976333ed6",
+    "bytes": 708652,
+    "samples": 354304,
+    "sample_rate": 48000
+  },
+  {
+    "file": "V03/D.wav",
+    "sha256": "5a4217d7b7f46da9bbe73099a85a3d64a6318e125bbae58c7dd4fc201487efdd",
+    "bytes": 708652,
+    "samples": 354304,
+    "sample_rate": 48000
+  },
+  {
+    "file": "V03/E.wav",
+    "sha256": "efa53847917f5a02bc60f4cdc8a6d52d58f6162794e94c8b8ed9e3954a37d351",
+    "bytes": 708652,
+    "samples": 354304,
+    "sample_rate": 48000
+  },
+  {
+    "file": "V04/Source.wav",
+    "sha256": "f6976ad54cbb4a42ec85afb19524da7f755eafaf7157044cebcc7e6be8845f73",
+    "bytes": 539598,
+    "samples": 269760,
+    "sample_rate": 48000
+  },
+  {
+    "file": "V04/Ref.wav",
+    "sha256": "68bcda44fdbb0cf539141f52f43db5306d02eb057ac8e66f20e7894126d473d5",
+    "bytes": 404238,
+    "samples": 202080,
+    "sample_rate": 48000
+  },
+  {
+    "file": "V04/A.wav",
+    "sha256": "10d6b6baff8cecd7c87edf84330160cf9f386e831c9083534ea44d55e9a57158",
+    "bytes": 539692,
+    "samples": 269824,
+    "sample_rate": 48000
+  },
+  {
+    "file": "V04/B.wav",
+    "sha256": "77d286f0cb37dc83f904e6fb39a090fe09cf5417834a07176ff5ab9ec1111af3",
+    "bytes": 539692,
+    "samples": 269824,
+    "sample_rate": 48000
+  },
+  {
+    "file": "V04/C.wav",
+    "sha256": "d3bda1e43df4e5b0af68343ddc528716c64bfe1b9e13d66de1e7ddc9ee03ae21",
+    "bytes": 539692,
+    "samples": 269824,
+    "sample_rate": 48000
+  },
+  {
+    "file": "V04/D.wav",
+    "sha256": "a8126c7721a195a3a216de38d2e0ec7f0409b7eff92b0a2717d81e40d1ef19ad",
+    "bytes": 539692,
+    "samples": 269824,
+    "sample_rate": 48000
+  },
+  {
+    "file": "V04/E.wav",
+    "sha256": "ea902b1ea3e427182eb4e38df398308b6125ab61de753e0655ac362a19b5b3dc",
+    "bytes": 539692,
+    "samples": 269824,
+    "sample_rate": 48000
+  },
+  {
+    "file": "V05/Source.wav",
+    "sha256": "6e4e8f1ee0dfa53360aeef5da260ad65d876322c06d7f17300f9b82bd60887bd",
+    "bytes": 1008044,
+    "samples": 336000,
+    "sample_rate": 48000
+  },
+  {
+    "file": "V05/Ref.wav",
+    "sha256": "d98a34dfcd8ef97841f5cc8c6adf5acc70399f022cdbd62c8899adda5c99a42b",
+    "bytes": 997964,
+    "samples": 332640,
+    "sample_rate": 48000
+  },
+  {
+    "file": "V05/A.wav",
+    "sha256": "d82af0b885610dd10b9282e4d142edd4a4d233b52246e08232638d2c9fb26af0",
+    "bytes": 672300,
+    "samples": 336128,
+    "sample_rate": 48000
+  },
+  {
+    "file": "V05/B.wav",
+    "sha256": "d9ce02a03fb86a92fc8d90995a0f54fafb8a4c50780c979e9d02eea869418f25",
+    "bytes": 672300,
+    "samples": 336128,
+    "sample_rate": 48000
+  },
+  {
+    "file": "V05/C.wav",
+    "sha256": "b3d4f3298296f7afd89d5eb8f8270c99eb9052358b15e3e8942cd6bde373c109",
+    "bytes": 672300,
+    "samples": 336128,
+    "sample_rate": 48000
+  },
+  {
+    "file": "V05/D.wav",
+    "sha256": "a59804d8e03bc7f8aadb3f001321b042d562a9a111d509b24c28a2c33ebe710c",
+    "bytes": 672300,
+    "samples": 336128,
+    "sample_rate": 48000
+  },
+  {
+    "file": "V05/E.wav",
+    "sha256": "7c05935b2d2d90494d700d70fa15abd2ed808da8668761195af53dd7b1667210",
+    "bytes": 672300,
+    "samples": 336128,
+    "sample_rate": 48000
+  },
+  {
+    "file": "V06/Source.wav",
+    "sha256": "a25dd2dac286a02ebe08055a5d65d0810ca7757d14b38d2e8865dfe5b61615c6",
+    "bytes": 1002284,
+    "samples": 334080,
+    "sample_rate": 48000
+  },
+  {
+    "file": "V06/Ref.wav",
+    "sha256": "e668602a8867ce2c97bc25f64e985148a45b4352edf007a9a6c4936c5a49cf59",
+    "bytes": 950444,
+    "samples": 316800,
+    "sample_rate": 48000
+  },
+  {
+    "file": "V06/A.wav",
+    "sha256": "605ef9c000feb8fbb5f02a1e370247dd59730aa0beaf1e394eef1e39db97eea3",
+    "bytes": 668204,
+    "samples": 334080,
+    "sample_rate": 48000
+  },
+  {
+    "file": "V06/B.wav",
+    "sha256": "a9822e37887a21558a8c90aef5cab8c9d2e054cbbb10b6dcd784df17a0270513",
+    "bytes": 668204,
+    "samples": 334080,
+    "sample_rate": 48000
+  },
+  {
+    "file": "V06/C.wav",
+    "sha256": "7e44d91f85829e8e0a4bbcc8edacc13e54f19a84951a3fcc8261dba79c218f15",
+    "bytes": 668204,
+    "samples": 334080,
+    "sample_rate": 48000
+  },
+  {
+    "file": "V06/D.wav",
+    "sha256": "166177d6c108ca237aa3190e3edac46bea9d7ddb53a424e86a8ee2b0877cfc4e",
+    "bytes": 668204,
+    "samples": 334080,
+    "sample_rate": 48000
+  },
+  {
+    "file": "V06/E.wav",
+    "sha256": "0a876679acd9eeb03731eda7309a36a4e80a0dc358ef623288abe35fc12e3d4d",
+    "bytes": 668204,
+    "samples": 334080,
+    "sample_rate": 48000
+  },
+  {
+    "file": "V07/Source.wav",
+    "sha256": "6867b40c50ef4e64dc8de98a6546d57ce35d65b91b79a5999999e59ff01b1aa5",
+    "bytes": 995084,
+    "samples": 331680,
+    "sample_rate": 48000
+  },
+  {
+    "file": "V07/Ref.wav",
+    "sha256": "d98a34dfcd8ef97841f5cc8c6adf5acc70399f022cdbd62c8899adda5c99a42b",
+    "bytes": 997964,
+    "samples": 332640,
+    "sample_rate": 48000
+  },
+  {
+    "file": "V07/A.wav",
+    "sha256": "a8767206844982f918d94b64a77b7dbf5590962535ff910d88472d3941be98a3",
+    "bytes": 663596,
+    "samples": 331776,
+    "sample_rate": 48000
+  },
+  {
+    "file": "V07/B.wav",
+    "sha256": "37397cef2fea46dc7c644e93d6af518a1acde5b63d870448e0c81da69fd17343",
+    "bytes": 663596,
+    "samples": 331776,
+    "sample_rate": 48000
+  },
+  {
+    "file": "V07/C.wav",
+    "sha256": "83ee1983ce69de419f8531ab1665caaab7d045773cb9795a7ff2edfcdd654b62",
+    "bytes": 663596,
+    "samples": 331776,
+    "sample_rate": 48000
+  },
+  {
+    "file": "V07/D.wav",
+    "sha256": "1eaa3888e0de0a35ee942a351d5925c21dc3ffe46083c59f79320c1f5b9ef3fc",
+    "bytes": 663596,
+    "samples": 331776,
+    "sample_rate": 48000
+  },
+  {
+    "file": "V07/E.wav",
+    "sha256": "57605f308df21d6bbb1baff2c60978a1c1b0ec6a4aea64ee6de196370e93ab9e",
+    "bytes": 663596,
+    "samples": 331776,
+    "sample_rate": 48000
+  },
+  {
+    "file": "V08/Source.wav",
+    "sha256": "630cd00031a5c22d9bb71860f5aa964c31731f60f3635535af5c7a9fd057ba5c",
+    "bytes": 1025324,
+    "samples": 341760,
+    "sample_rate": 48000
+  },
+  {
+    "file": "V08/Ref.wav",
+    "sha256": "e668602a8867ce2c97bc25f64e985148a45b4352edf007a9a6c4936c5a49cf59",
+    "bytes": 950444,
+    "samples": 316800,
+    "sample_rate": 48000
+  },
+  {
+    "file": "V08/A.wav",
+    "sha256": "490f12669e90f18965ccc6190a4654f7a8eff549993b1edeae1b797a22cf6721",
+    "bytes": 683564,
+    "samples": 341760,
+    "sample_rate": 48000
+  },
+  {
+    "file": "V08/B.wav",
+    "sha256": "0dc82aa0b009ac788808e99442fbe420c6aa0ecda6ee54ea49953ef5cd98d796",
+    "bytes": 683564,
+    "samples": 341760,
+    "sample_rate": 48000
+  },
+  {
+    "file": "V08/C.wav",
+    "sha256": "a21a801f853842dbe10a176f974f8392c76c3e47225445939f5c1885a3715e41",
+    "bytes": 683564,
+    "samples": 341760,
+    "sample_rate": 48000
+  },
+  {
+    "file": "V08/D.wav",
+    "sha256": "d2719f2b5bc752219328d19c8b5bb9c8c9e5629908d2718f2761b4afa83daa22",
+    "bytes": 683564,
+    "samples": 341760,
+    "sample_rate": 48000
+  },
+  {
+    "file": "V08/E.wav",
+    "sha256": "918f492f970af6cd22771cb85bdc2a9693ff52128bbc6940e5f8fc36b9fc28f1",
+    "bytes": 683564,
+    "samples": 341760,
+    "sample_rate": 48000
+  }
+]
